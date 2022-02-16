@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning network automation, ansible, python and other programming languages. Also all things networking!
 
-- 📫 How to reach me **cfone98@gmail.com**
+- 📫 How to reach me **cfone98@hotmail.com**
 
 - ⚡ Fun fact :- games, games, I love all kinds of games! Card games, Board games and Video Games!
 
