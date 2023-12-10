@@ -64,17 +64,3 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cfone98&show_icons=true&locale=en&layout=compact"
-     /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfone98&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfone98" alt="adam-pw" /></p>
-
